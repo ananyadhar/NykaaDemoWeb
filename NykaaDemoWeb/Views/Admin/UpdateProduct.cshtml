@@ -1,0 +1,81 @@
+﻿@model NykaaDemoWeb.Data.Product
+
+
+
+
+
+@{
+    ViewData["Title"] = "UpdateProduct";
+}
+
+
+
+
+
+<h1>UpdateProduct</h1>
+
+
+
+
+
+<h4>ProductModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="UpdateProduct">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Pid" />
+            <div class="form-group">
+                <label asp-for="Pname" class="control-label"></label>
+                <input asp-for="Pname" class="form-control" />
+                <span asp-validation-for="Pname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pprice" class="control-label"></label>
+                <input asp-for="Pprice" class="form-control" />
+                <span asp-validation-for="Pprice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pdescription" class="control-label"></label>
+                <input asp-for="Pdescription" class="form-control" />
+                <span asp-validation-for="Pdescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ScatId" class="control-label"></label>
+                <input asp-for="ScatId" class="form-control" />
+                <span asp-validation-for="ScatId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pimg" class="control-label"></label>
+                <input asp-for="Pimg" class="form-control" />
+                <span asp-validation-for="Pimg" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pbrand" class="control-label"></label>
+                <input asp-for="Pbrand" class="form-control" />
+                <span asp-validation-for="Pbrand" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+
+
+<div>
+    <a asp-action="DisplayProductsPage">Go back</a>
+</div>
+
+
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

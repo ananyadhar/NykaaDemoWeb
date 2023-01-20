@@ -1,0 +1,118 @@
+﻿@model IEnumerable<NykaaDemoWeb.Data.Category>
+@{
+    ViewData["Title"] = string.Empty;
+}
+
+
+<html lang="en">
+<head>
+
+
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Nykaa - Shopping</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link href="~/css/HomePage.css" rel="stylesheet" />
+    <link type="image/png" rel="icon" href=".../wwwroot/css/icons8-nykaa-100.png" />
+    <link rel="icon" type="image/png" href="https://th.bing.com/th/id/OIP.kMlP3CWpxDnp9rCDKq-dJQAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.5&pid=1.7" />
+</head>
+<body>
+    @*<script>
+    $(document).ready(function(){
+    $('.nav li  > .sub-menu').parent().hover(function () {
+    var submenu = $(this).children('.sub-menu');
+    if ($(submenu).is(':hidden')) {
+    $(submenu).slideDown(200);
+    } else {
+    $(submenu).slideUp(200);
+    }
+    });
+    })
+
+    </script>*@
+   
+    <div>
+
+        <div class="topnav d-flex justify-content-around">
+            @*<a href="#home">Home</a>*@
+
+
+            @{
+                foreach (var item in Model)
+                {
+                    <ul class="list-unstyled pb-0">
+                        <li class="dropdown-submenu">
+                            <a class="dropdown-item" tabindex="-1" href="">@item.CatName</a>
+                            @if (item.SubCategories.Count > 0)
+                            {
+                                <ul class="dropdown-menu">
+                                    @foreach (var item2 in item.SubCategories)
+                                    {
+                                        <li><a class="dropdown-item" tabindex="-1" href="/Category/DisplayProducts/@item2.ScatId">@item2.ScatName</a></li>
+                                    }
+                                </ul>
+                            }
+                        </li>
+                    </ul>
+                }
+            }
+
+
+
+            @*<ul class="list-unstyled pb-0">
+            <li class="dropdown-submenu">
+            <a class="dropdown-item" tabindex="-1" href="#">Categories</a>
+            <ul class="dropdown-menu">
+            <li><a class="dropdown-item" tabindex="-1" href="#"><span class="text-black-50">Make Up</span></a></li>
+            <li><a class="dropdown-item" tabindex="-1" href="#"><span class="text-black-50">Hair</span></a></li>
+            <li><a class="dropdown-item" tabindex="-1" href="#"><span class="text-black-50">Skin</span></a></li>
+            <li><a class="dropdown-item" tabindex="-1" href="#"><span class="text-black-50">Wellness</span></a></li>
+            </ul>
+            </li>
+            </ul>
+            <a href="#contact">Contact Us</a>
+            <a href="#about">About Us</a>*@
+        </div>
+    </div>
+    <div class="card-group d-flex justify-content-around p-4">
+        <div class="">
+            <img class="card-img-top" src="/CompactPowder.jpg" width="326" height="200">
+            <div class="card-body">
+                <h5 class="card-title">Best Compact Powder</h5>
+                <p class="card-text">This is a great Compact Powder!</p>
+                <p>Rs.625/-</p>
+                <p>*****</p>
+                <button class="login_btn">Buy Now!</button>
+            </div>
+        </div>
+        <div class="">
+            <img class="card-img-top" src="/lipstick.jpg" width="326" height="200" />
+            <div class="card-body">
+                <h5 class="card-title">Sugar Matte Blush Lipstick</h5>
+                <p class="card-text">Matte Finish Lipstick for longer duration</p>
+                <p>Rs.345/-</p>
+                <p>****</p>
+                <button class="login_btn">Buy Now!</button>
+            </div>
+        </div>
+        <div class="">
+            <img class="card-img-top" src="/Eyeliner.jpg" width="326" height="200">
+            <div class="card-body">
+                <h5 class="card-title">Black Smudge Free Eyeliner!</h5>
+                <p class="card-text"> Eyeliner is the <br /> best for the eyes!</p>
+                <p>Rs.450/-</p>
+                <p>*****</p>
+                <button class="login_btn">Buy Now!</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+

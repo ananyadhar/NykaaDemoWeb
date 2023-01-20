@@ -1,0 +1,78 @@
+﻿@model NykaaDemoWeb.Data.Product
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+<h1>Update</h1>
+
+<h4>Product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Update">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Pid" />
+            <div class="form-group">
+                <label asp-for="Pbrand" class="control-label"></label>
+                <input asp-for="Pbrand" class="form-control" />
+                <span asp-validation-for="Pbrand" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pname" class="control-label"></label>
+                <input asp-for="Pname" class="form-control" />
+                <span asp-validation-for="Pname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pdescription" class="control-label"></label>
+                <input asp-for="Pdescription" class="form-control" />
+                <span asp-validation-for="Pdescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pprice" class="control-label"></label>
+                <input asp-for="Pprice" class="form-control" />
+                <span asp-validation-for="Pprice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ScatId" class="control-label"></label>
+                <select asp-for="ScatId" class="form-control" asp-items="ViewBag.ScatId"></select>
+                <span asp-validation-for="ScatId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pimg" class="control-label"></label>
+                <input asp-for="Pimg" class="form-control" />
+                <span asp-validation-for="Pimg" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<h1 class="bg-info text-white">Update Employee</h1>
+<a asp-action="Index" class="btn btn-secondary">Back</a>
+
+<form method="post">
+	<div class="form-group">
+		<label asp-for="Pname"></label>
+		<input asp-for="Pname" class="form-control" />
+	</div>
+	<div class="form-group">
+		<label asp-for="Pbrand"></label>
+		<select asp-for="Pbrand" asp-items="ViewBag.Department" class="form-control"></select>
+	</div>
+	<div class="form-group">
+		<label asp-for="Pprice"></label>
+		<input asp-for="Pprice" class="form-control" />
+	</div>
+	<button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,147 @@
+﻿@model IEnumerable<NykaaDemoWeb.Data.Category>
+
+@{
+    ViewData["Title"] = string.Empty;
+}
+@{
+    Layout = null;
+}
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Nykaa - Shopping</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link href="~/css/HomePage.css" rel="stylesheet" />
+    <link type="image/png" rel="icon" href=".../wwwroot/css/icons8-nykaa-100.png" />
+    <link rel="icon" type="image/png" href="https://th.bing.com/th/id/OIP.kMlP3CWpxDnp9rCDKq-dJQAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.5&pid=1.7" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3 d-flex justify-content-around">
+            <div class="container ">
+                <div>
+                    <a class="navbar-brand">
+                        <img src="/css/nykaa.jpg" width="80" height="40" />
+                    </a>
+                </div>
+                <div>
+                    @if (ViewBag.status == 1)
+                    {
+                        <p> @ViewBag.p.Pname</p>
+                        <p> @ViewBag.p.Pbrand</p>
+                        <p> @ViewBag.p.Pdescription</p>
+                        <p> @ViewBag.p.Pprice</p>
+                        <p> @ViewBag.p.Pimg</p>
+                    }
+                    else
+                    {
+
+                        @using (Html.BeginForm("DisplayProductsPage", "Product", FormMethod.Post))
+                        {
+
+                                    <div>
+
+                                <p>@Html.TextBox("PName")</p>
+                                        <button class="btn login_btn" type="submit" value="Search">
+                                            <a:hover>Search </a:hover>
+                                        </button>
+                                    </div>
+
+                        }
+                    }
+                    </div>
+                <div>
+                    @using (Html.BeginForm("Index", "Login", FormMethod.Get))
+                        {
+                        <div class="form-group">
+                            <input type="submit" value="Login" class="btn login_btn">
+                        </div>
+                            
+
+                        }
+
+                </div>
+
+                @*<button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                    </ul>
+                </div>*@
+            </div>
+        </nav>
+    </header>
+    <div>
+
+        <div class="topnav d-flex justify-content-around">
+            @*<a href="#home">Home</a>*@
+
+
+            @{
+                foreach (var item in Model)
+                {
+                    <ul class="list-unstyled pb-0">
+                        <li class="dropdown-submenu ">
+                            <a class="dropdown-item" tabindex="-1" href="">@item.CatName</a>
+                            @if (item.SubCategories.Count > 0)
+                            {
+                                <ul class="dropdown-menu text-black-50">
+                                    @foreach (var item2 in item.SubCategories)
+                                    {
+                                        <li><a class="dropdown-item text-black-50" tabindex="-1" href="/Category/DisplayProducts/@item2.ScatId">@item2.ScatName</a></li>
+                                    }
+                                            </ul>
+                            }
+                                </li>
+                            </ul>
+                }
+            }
+        </div>
+    </div>
+    @*<div class="card-group d-flex justify-content-around p-4">
+        <div class="">
+            <img class="card-img-top" src="/CompactPowder.jpg" width="326" height="200">
+            <div class="card-body">
+                <h5 class="card-title">Best Compact Powder</h5>
+                <p class="card-text">This is a great Compact Powder!</p>
+                <p>Rs.625/-</p>
+                <p>*****</p>
+                <button class="login_btn">Buy Now!</button>
+            </div>
+        </div>
+        <div class="">
+            <img class="card-img-top" src="/lipstick.jpg" width="326" height="200" />
+            <div class="card-body">
+                <h5 class="card-title">Sugar Matte Blush Lipstick</h5>
+                <p class="card-text">Matte Finish Lipstick for longer duration</p>
+                <p>Rs.345/-</p>
+                <p>****</p>
+                <button class="login_btn">Buy Now!</button>
+            </div>
+        </div>
+        <div class="">
+            <img class="card-img-top" src="/Eyeliner.jpg" width="326" height="200">
+            <div class="card-body">
+                <h5 class="card-title">Black Smudge Free Eyeliner!</h5>
+                <p class="card-text">Good Eyeliner.</p>
+                <p>Rs.450/-</p>
+                <p>*****</p>
+                <button class="login_btn">Buy Now!</button>
+            </div>
+        </div>
+    </div>*@
+    <div class="">
+        <img class="card-img-top" src="/banner.jpg">
+    </div>
+    <div class="">
+        <img class="card-img-top" src="/banner2.jpg">
+    </div>
+</body>
+</html>

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<NykaaDemoWeb.Data.Product>
+
+@{
+    Layout = "~/Views/Shared/_noLoginLayout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link href="~/css/HomePage.css" rel="stylesheet" />
+    <link type="image/png" rel="icon" href=".../wwwroot/css/icons8-nykaa-100.png" />
+    <link rel="icon" type="image/png" href="https://th.bing.com/th/id/OIP.kMlP3CWpxDnp9rCDKq-dJQAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.5&pid=1.7" />
+    <meta name="viewport" content="width=device-width" />
+    <title>DisplayProducts</title>
+</head>
+<body>
+
+    <div class="card-group d-flex justify-content-around p-4">
+        @foreach (var item in Model)
+        {
+            <div class="p-5" style="background-color: lightgrey; opacity:50">
+                <img class="card-img-top " src=@item.Pimg width="326" height="200" />
+                <div class="card-body">
+                    <h5 class="card-title"> @Html.DisplayFor(modelItem => item.Pname)</h5>
+                    <p class="card-text">@Html.DisplayFor(modelItem => item.Pbrand)</p>
+                    <p>@Html.DisplayFor(modelItem => item.Pdescription)</p>
+                    <p>Rs. @Html.DisplayFor(modelItem => item.Pprice)</p>
+                </div>
+            </div>
+            @*<div class="card p-5" >
+        <img class="card-img-top img-responsive" src=@item.Pimg alt="Card image cap">
+        <div class="card-body">
+        <h5 class="card-title"> @Html.DisplayFor(modelItem => item.Pname)</h5>
+        <p class="card-text">@Html.DisplayFor(modelItem => item.Pbrand)</p>
+        <p class="card-text">@Html.DisplayFor(modelItem => item.Pdescription)</p>
+        <p class="card-text">Rs. @Html.DisplayFor(modelItem => item.Pprice)</p>
+        <button class="btn login_btn">Buy!</button>
+        </div>
+        </div>*@
+        }
+    </div>
+</body>
+</html>
+

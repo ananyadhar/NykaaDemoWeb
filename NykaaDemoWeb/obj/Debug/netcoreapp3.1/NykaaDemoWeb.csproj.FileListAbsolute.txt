@@ -1,0 +1,1015 @@
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.exe
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.deps.json
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.runtimeconfig.json
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.runtimeconfig.dev.json
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.pdb
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.Views.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.Views.pdb
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.AssemblyReference.cache
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.AssemblyInfoInputs.cache
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.AssemblyInfo.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.CoreCompileInputs.cache
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorAssemblyInfo.cache
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorAssemblyInfo.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\NykaaDemoWeb.StaticWebAssets.Manifest.cache
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\NykaaDemoWeb.StaticWebAssets.Pack.cache
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.NykaaDemoWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.NykaaDemoWeb.props
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.NykaaDemoWeb.props
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.NykaaDemoWeb.props
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.TagHelpers.input.cache
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.TagHelpers.output.cache
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorCoreGenerate.cache
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorTargetAssemblyInfo.cache
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorTargetAssemblyInfo.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.Views.pdb
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.CopyComplete
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.pdb
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.genruntimeconfig.cache
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\UserPageHome\UserHomePage.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\UserPageHome\AdminHomePage.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home1\MainHomePage.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\DisplayProductsPage.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\EditProducts.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\Update.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Category\DisplayCategory.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Category\DisplayProducts.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DisplayProductsPage.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.AssemblyReference.cache
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.AssemblyInfoInputs.cache
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.AssemblyInfo.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.CoreCompileInputs.cache
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorAssemblyInfo.cache
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorAssemblyInfo.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.pdb
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.exe
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.deps.json
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.runtimeconfig.json
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.runtimeconfig.dev.json
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.pdb
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.Views.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.Views.pdb
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\NykaaDemoWeb.StaticWebAssets.Manifest.cache
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\NykaaDemoWeb.StaticWebAssets.Pack.cache
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.NykaaDemoWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.NykaaDemoWeb.props
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.NykaaDemoWeb.props
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.NykaaDemoWeb.props
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.TagHelpers.input.cache
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.TagHelpers.output.cache
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorCoreGenerate.cache
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DisplayProductsPage.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Category\DisplayCategory.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Category\DisplayProducts.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home1\MainHomePage.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\AdminHomePage.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\UserHomePage.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\DisplayProductsPage.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\EditProducts.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\Update.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\UserPageHome\AdminHomePage.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\UserPageHome\UserHomePage.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorTargetAssemblyInfo.cache
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorTargetAssemblyInfo.cs
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.Views.pdb
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.CopyComplete
+C:\Users\aratanghayra\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.genruntimeconfig.cache
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.exe
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.deps.json
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.runtimeconfig.json
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.runtimeconfig.dev.json
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.pdb
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.Views.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.Views.pdb
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.AssemblyReference.cache
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.AssemblyInfoInputs.cache
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.AssemblyInfo.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.CoreCompileInputs.cache
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorAssemblyInfo.cache
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorAssemblyInfo.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\NykaaDemoWeb.StaticWebAssets.Manifest.cache
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\NykaaDemoWeb.StaticWebAssets.Pack.cache
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.NykaaDemoWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.NykaaDemoWeb.props
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.NykaaDemoWeb.props
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.NykaaDemoWeb.props
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.TagHelpers.input.cache
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.TagHelpers.output.cache
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorCoreGenerate.cache
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DisplayProductsPage.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Category\DisplayCategory.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Category\DisplayProducts.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home1\MainHomePage.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\AdminHomePage.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\UserHomePage.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\DisplayProductsPage.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\EditProducts.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\Update.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\UserPageHome\AdminHomePage.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\UserPageHome\UserHomePage.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorTargetAssemblyInfo.cache
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorTargetAssemblyInfo.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.Views.pdb
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.CopyComplete
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.dll
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.pdb
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.genruntimeconfig.cache
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noLoginLayout.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddProduct.cshtml.g.cs
+C:\Users\ananydhar\Downloads\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdateProduct.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddProduct.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdateProduct.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\AdminHomePage.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\UserHomePage.cshtml.g.cs
+C:\Users\ananydhar\Desktop\Deloitte_November\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noLoginLayout.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.exe
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.deps.json
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.runtimeconfig.json
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.runtimeconfig.dev.json
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.pdb
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.Views.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.Views.pdb
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.AssemblyReference.cache
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.AssemblyInfoInputs.cache
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.AssemblyInfo.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.CoreCompileInputs.cache
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorAssemblyInfo.cache
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorAssemblyInfo.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\NykaaDemoWeb.StaticWebAssets.Manifest.cache
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\NykaaDemoWeb.StaticWebAssets.Pack.cache
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.NykaaDemoWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.NykaaDemoWeb.props
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.NykaaDemoWeb.props
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.NykaaDemoWeb.props
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.TagHelpers.input.cache
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.TagHelpers.output.cache
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorCoreGenerate.cache
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddProduct.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DisplayProductsPage.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdateProduct.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Category\DisplayCategory.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Category\DisplayProducts.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home1\MainHomePage.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\AdminHomePage.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\UserHomePage.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\DisplayProductsPage.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\EditProducts.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\Update.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noLoginLayout.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\UserPageHome\AdminHomePage.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\UserPageHome\UserHomePage.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorTargetAssemblyInfo.cache
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorTargetAssemblyInfo.cs
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.Views.pdb
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.CopyComplete
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.dll
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.pdb
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.genruntimeconfig.cache
+C:\Users\piyushijain6\Documents\DeloitteNov\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Orders\BillAmount.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.exe
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.deps.json
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.runtimeconfig.json
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.runtimeconfig.dev.json
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.pdb
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.Views.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.Views.pdb
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.AssemblyReference.cache
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.AssemblyInfoInputs.cache
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.AssemblyInfo.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.CoreCompileInputs.cache
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorAssemblyInfo.cache
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorAssemblyInfo.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\NykaaDemoWeb.StaticWebAssets.Manifest.cache
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\NykaaDemoWeb.StaticWebAssets.Pack.cache
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.NykaaDemoWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.NykaaDemoWeb.props
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.NykaaDemoWeb.props
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.NykaaDemoWeb.props
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.TagHelpers.input.cache
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.TagHelpers.output.cache
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorCoreGenerate.cache
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddProduct.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DisplayProductsPage.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdateProduct.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Category\DisplayCategory.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Category\DisplayProducts.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home1\MainHomePage.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\UserHomePage.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Orders\BillAmount.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\DisplayProductsPage.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\EditProducts.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\Update.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noLoginLayout.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\UserPageHome\AdminHomePage.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\UserPageHome\UserHomePage.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorTargetAssemblyInfo.cache
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorTargetAssemblyInfo.cs
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.Views.pdb
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.CopyComplete
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.dll
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.pdb
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.genruntimeconfig.cache
+C:\Users\ananydhar\Downloads\New folder\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DisplayProducts.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.exe
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.deps.json
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.runtimeconfig.json
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.runtimeconfig.dev.json
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.pdb
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.Views.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NykaaDemoWeb.Views.pdb
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.AssemblyReference.cache
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.AssemblyInfoInputs.cache
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.AssemblyInfo.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.CoreCompileInputs.cache
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorAssemblyInfo.cache
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorAssemblyInfo.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\NykaaDemoWeb.StaticWebAssets.Manifest.cache
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\NykaaDemoWeb.StaticWebAssets.Pack.cache
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.NykaaDemoWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.NykaaDemoWeb.props
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.NykaaDemoWeb.props
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.NykaaDemoWeb.props
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.TagHelpers.input.cache
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.TagHelpers.output.cache
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorCoreGenerate.cache
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddProduct.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DisplayProducts.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DisplayProductsPage.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UpdateProduct.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Category\DisplayCategory.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Category\DisplayProducts.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home1\MainHomePage.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\UserHomePage.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Orders\BillAmount.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\DisplayProductsPage.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\EditProducts.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Product\Update.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noLoginLayout.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\UserPageHome\AdminHomePage.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\UserPageHome\UserHomePage.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorTargetAssemblyInfo.cache
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.RazorTargetAssemblyInfo.cs
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.Views.pdb
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.csproj.CopyComplete
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.dll
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.pdb
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\NykaaDemoWeb.genruntimeconfig.cache
+C:\Users\ananydhar\Desktop\NykaaDemoWeb\NykaaDemoWeb\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DeleteProduct.cshtml.g.cs

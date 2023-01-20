@@ -1,0 +1,165 @@
+﻿@model NykaaDemoWeb.Data.Product
+@{
+    Layout = "~/Views/Shared/_noLoginLayout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link href="~/css/HomePage.css" rel="stylesheet" />
+    <link type="image/png" rel="icon" href=".../wwwroot/css/icons8-nykaa-100.png" />
+    <link rel="icon" type="image/png" href="https://th.bing.com/th/id/OIP.kMlP3CWpxDnp9rCDKq-dJQAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.5&pid=1.7" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SearchPage</title>
+    <link rel="stylesheet" href="~/css/bootstrap.css" />
+</head>
+<body style="background-color:beige">
+    
+    <div class="p-5">
+        @if (ViewBag.status == 1)
+        {
+            <div class="card-group d-flex justify-content-around" >
+
+                <div class="">
+                    <img class="card-img-top" src="@ViewBag.p.Pimg" width="326" height="200" />
+                    <div class="card-body">
+                        <h5 class="card-title"> @ViewBag.p.Pname</h5>
+                        <p class="card-text">@ViewBag.p.Pbrand</p>
+                        <p>@ViewBag.p.Pdescription</p>
+                        <p>Rs. @ViewBag.p.Pprice</p>
+                        <button class="btn login_btn">Buy!</button>
+                    </div>
+                </div>
+
+            </div>
+        }
+        else
+        {
+
+            @using (Html.BeginForm("DisplayProductsPage", "Product", FormMethod.Post))
+            {
+                <header>
+                    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+                        <div class="container">
+                            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">EF2</a>
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                            <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                                <ul class="navbar-nav flex-grow-1">
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </nav>
+                </header>
+                @*<div class="container">
+                    <div class="row">
+                        <div class="col-sm p-5" style="background-color:gray">
+                            <span class="text-black-50">Menu Bar</span>
+                            <div>
+                                <ul class="text-decoration-underline">
+                                    <li>Home</li>
+                                    <li>About Us</li>
+                                    <li>Services</li>
+                                    <li>Contact Us</li>
+                                </ul>
+                            </div>
+                            <img src="/employee.png" />
+                        </div>
+                        <div class="col-sm p-5" style="background-color:darksalmon">
+                            <p>@Html.Label("Enter Product Name : ")</p>
+                            <p>@Html.TextBox("PName")</p>
+                            <button class="btn btn-dark" type="submit" value="Search">
+                                <a:hover>Search </a:hover>
+                            </button>
+                        </div>
+                        <div class="col-sm p-5 " style="background-color:gray">
+                            <span class="text-black-50">Menu Bar</span>
+                            <div>
+                                <ul class="text-decoration-underline">
+                                    <li>Home</li>
+                                    <li>About Us</li>
+                                    <li>Services</li>
+                                    <li>Contact Us</li>
+                                </ul>
+                            </div>
+                            <img src="/employee1.png" />
+                        </div>
+                    </div>
+                </div>*@
+
+            }
+        }
+    </div>
+
+
+
+</body>
+</html>
+
+
+@*
+
+@model EF2.Models.EmployeeModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetEmployeeIDPage</title>
+</head>
+<body>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmailID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Salary)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => Model.EmpName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem =>Model.EmailID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model.Salary)
+            </td>
+
+        </tr>
+
+    </tbody>
+</table>
+</body>
+</html>*@
